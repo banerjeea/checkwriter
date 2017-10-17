@@ -1,0 +1,7 @@
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\bin\Debug\Test.ChequeWriter.dll
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\bin\Debug\Test.ChequeWriter.pdb
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\bin\Debug\ChequeWriter.exe
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\bin\Debug\ChequeWriter.pdb
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\obj\Debug\Test.ChequeWriter.csprojResolveAssemblyReference.cache
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\obj\Debug\Test.ChequeWriter.dll
+C:\Users\Avishek\Desktop\WiseTechGlobal\ChequeWriter\Test.ChequeWriter\obj\Debug\Test.ChequeWriter.pdb
